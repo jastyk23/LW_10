@@ -5,4 +5,4 @@
 ## Тестирование
 Тестирование приложения ```pytest scrips/tests.py``` проходит успешно:
 
-![img.png](src/test.png/img.png)
+![img.png](src/img/test.png)
