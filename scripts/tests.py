@@ -1,4 +1,4 @@
-from pages.var_8.scripts.titanic import Titanic
+from .titanic import Titanic
 
 
 def test_failed_file_name():
